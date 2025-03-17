@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi there, I'm Wang Shujing
 
-<!--
-**Treev1ew/Treev1ew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- 🏫 Currently pursuing a Master's in Software Engineering at Universiti Malaya
+- 🌍 Originally from Beijing, China
+- 🔢 Bachelor's degree in Mathematics
+- 🚀 New to GitHub and excited to start my journey here!
 
-Here are some ideas to get you started:
+## 💻 Technical Skills
+- Languages: Golang, C and some Python
+- Currently learning: Software Frameworks，web back-end building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning Journey
+- Transitioning from Mathematics to Software Engineering
+- Exploring the world of software development
+- Building my first projects on GitHub
+
+## ⚡ Interests
+- ACG (Anime, Comics, and Games)
+- Basketball
+
+## 📫 How to reach me
+- 📧 Email: 22102888@siswa.um.edu.my
+- 📱 WhatsApp: +60 145719908
+
+---
+
+*"Every expert was once a beginner. Welcome to my coding journey!"*
